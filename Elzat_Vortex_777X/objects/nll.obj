@@ -1,0 +1,604 @@
+I
+800
+OBJ
+
+GLOBAL_cockpit_lit
+POINT_COUNTS	0	0	0	0
+
+# 0 ROOT
+	# 1 Empty: Empty.008
+	ANIM_begin
+	# static translation
+	ANIM_trans	-20.70969	-1.97998	-0.00191	-20.70969	-1.97998	-0.00191
+	# static rotation
+	# rotation keyframes
+	ANIM_rotate_begin	0	0	-1	sim/flightmodel2/gear/deploy_ratio[0]
+	ANIM_rotate_key	1	0
+	ANIM_rotate_key	0	111.54852
+	ANIM_rotate_end
+		# 2 Mesh: 立方体.006
+			# 3 Light: 点光
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 -0.25104916 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.001
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.001	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 -0.21997866 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.002
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.002	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 -0.18833278 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.003
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.003	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 -0.15783766 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.004
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.004	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 -0.283654 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.005
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.005	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 -0.31395733 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.006
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.006	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.32910898 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.007
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.007	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.29880565 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.008
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.008	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.17298931 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.009
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.009	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.20348443 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.010
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.010	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.23513031 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.011
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.011	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.26620081 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.012
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.012	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 -0.14057624 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.013
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.013	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 -0.28351206 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.014
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.014	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 -0.25116298 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.015
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.015	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 -0.21999656 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.016
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.016	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 -0.18838264 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.017
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.017	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 -0.31403917 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.018
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.018	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 -0.15801537 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.019
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.019	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1699543 -0.5307771 -0.20193602 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.020
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.020	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1699543 -0.5307771 -0.23310244 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.021
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.021	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1699543 -0.5307771 -0.26545152 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.022
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.022	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.14057624 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.023
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.023	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.26620081 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.024
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.024	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.23513031 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.025
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.025	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.20348443 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.026
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.026	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.17298931 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.027
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.027	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.29880565 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.028
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.028	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 -0.32910898 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.029
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.029	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 -0.3147245 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.030
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.030	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 -0.28250325 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.031
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.031	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 -0.15553614 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.032
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.032	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 -0.1879492 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.033
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.033	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 -0.29612052 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.034
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.034	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 -0.170496 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.035
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.035	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 -0.20214188 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.036
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.036	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 -0.23302059 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.037
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.037	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 -0.26543364 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.038
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.038	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18470573 -0.3564626 -0.24836403 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.039
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.039	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18470573 -0.3564626 -0.21595098 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.040
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.040	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18470573 -0.3564626 0.25048703 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.041
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.041	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18470573 -0.3564626 0.21807398 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.042
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.042	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 0.20100437 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.043
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.043	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 0.23341742 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.044
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.044	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 0.26429611 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.045
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.045	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 0.29594201 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.046
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.046	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18258667 -0.38149774 0.17031749 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.047
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.047	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 0.27848881 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.048
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.048	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 0.31090188 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.049
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.049	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 0.18393476 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.050
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.050	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.18059731 -0.40500414 0.15171351 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.051
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.051	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.13732903 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.052
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.052	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.16763236 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.053
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.053	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.29344869 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.054
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.054	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.26295358 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.055
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.055	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.2313077 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.056
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.056	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.2002372 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.057
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.057	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17844772 -0.43042195 0.32586175 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.058
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.058	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1699543 -0.5307771 0.20098649 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.059
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.059	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1699543 -0.5307771 0.23333557 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.060
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.060	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1699543 -0.5307771 0.26450199 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.061
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.061	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 0.30842263 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.062
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.062	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 0.15239884 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.063
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.063	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 0.27805537 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.064
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.064	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 0.24644145 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.065
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.065	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 0.21527503 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.066
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.066	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17204475 -0.50609195 0.18292595 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.067
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.067	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.32586175 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.068
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.068	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.2002372 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.069
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.069	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.2313077 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.070
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.070	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.26295358 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.071
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.071	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.29344869 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.072
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.072	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.16763236 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.073
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.073	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.1742115 -0.48049271 0.13732903 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.074
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.074	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 0.15248068 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.075
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.075	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 0.18278401 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.076
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.076	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 0.30860037 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.077
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.077	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 0.27810523 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.078
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.078	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 0.24645935 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 点光.079
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 点光.079	weight: 10000
+			LIGHT_PARAM	airplane_landing_bb -0.17637825 -0.45488393 0.21538885 1 1 1 0 5000cd 0 0 0 1
+			ANIM_end
+			# 3 Light: 聚光
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	-0.99900001	0.001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 聚光	weight: 10000
+			ANIM_begin
+			# static rotation
+			ANIM_rotate	-0.034795973	0.99939448	-0	85.002988	85.002988
+			LIGHT_PARAM	airplane_landing_sp 0.23163484 -0.40755498 -0.21531472 1 1 1 0 500 0.92387953
+			ANIM_end
+			ANIM_end
+			# 3 Light: 聚光.001
+			ANIM_begin
+			ANIM_show	0.001	10	sim/cockpit2/switches/landing_lights_on
+			ANIM_hide	0.001	-0.99900001	sim/cockpit2/switches/landing_lights_on
+			# LIGHT: 聚光.001	weight: 10000
+			ANIM_begin
+			# static rotation
+			ANIM_rotate	-0.034795973	0.99939448	-0	94.997012	94.997012
+			LIGHT_PARAM	airplane_landing_sp -0.19969651 -0.4225727 -0.21504942 1 1 1 0 500 0.92387953
+			ANIM_end
+			ANIM_end
+	ANIM_end
+
+# Build with Blender 4.2.14 LTS (build b'ec9012778df7'). Exported with XPlane2Blender 4.4.0-rc.1+121.20250701124556

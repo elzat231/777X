@@ -1,0 +1,464 @@
+I
+800
+OBJ
+
+GLOBAL_cockpit_lit
+POINT_COUNTS	0	0	0	0
+
+# 0 ROOT
+	# 1 Mesh: 平面.078
+		# 2 Mesh: 平面.111
+		ANIM_begin
+		# static translation
+		ANIM_trans	7.58495	-0.64700001	-5.1795402	7.58495	-0.64700001	-5.1795402
+		# static rotation
+		# rotation keyframes
+		ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[1]
+		ANIM_rotate_key	-10	0
+		ANIM_rotate_key	0	0.62509694
+		ANIM_rotate_key	10	1.2501939
+		ANIM_rotate_end
+			# 3 Mesh: 平面.103
+			ANIM_begin
+			# static translation
+			ANIM_trans	1.08485	0.33199999	-1.96917	1.08485	0.33199999	-1.96917
+			# static rotation
+			# rotation keyframes
+			ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[3]
+			ANIM_rotate_key	-10	0
+			ANIM_rotate_key	0	0.62509694
+			ANIM_rotate_key	10	1.2501939
+			ANIM_rotate_end
+				# 4 Mesh: 平面.098
+				ANIM_begin
+				# static translation
+				ANIM_trans	0.89665997	0.31312999	-1.96597	0.89665997	0.31312999	-1.96597
+				# static rotation
+				# rotation keyframes
+				ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[5]
+				ANIM_rotate_key	-10	0
+				ANIM_rotate_key	0	0.62509694
+				ANIM_rotate_key	10	1.2501939
+				ANIM_rotate_end
+					# 5 Mesh: 平面.094
+					ANIM_begin
+					# static translation
+					ANIM_trans	-0.78079998	0.43452001	-1.95441	-0.78079998	0.43452001	-1.95441
+					# static rotation
+					# rotation keyframes
+					ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[7]
+					ANIM_rotate_key	-10	0
+					ANIM_rotate_key	0	0.62509694
+					ANIM_rotate_key	10	1.2501939
+					ANIM_rotate_end
+						# 6 Mesh: 平面.090
+						ANIM_begin
+						# static translation
+						ANIM_trans	1.84293	0.20487	-1.9641	1.84293	0.20487	-1.9641
+						# static rotation
+						# rotation keyframes
+						ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[9]
+						ANIM_rotate_key	-10	0
+						ANIM_rotate_key	0	0.62509694
+						ANIM_rotate_key	10	1.2501939
+						ANIM_rotate_end
+							# 7 Mesh: 平面.086
+							ANIM_begin
+							# static translation
+							ANIM_trans	0.71683002	0.28253999	-1.96225	0.71683002	0.28253999	-1.96225
+							# static rotation
+							# rotation keyframes
+							ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[11]
+							ANIM_rotate_key	-10	0
+							ANIM_rotate_key	0	0.62509694
+							ANIM_rotate_key	10	1.2501939
+							ANIM_rotate_end
+								# 8 Mesh: 平面.081
+								ANIM_begin
+								# static translation
+								ANIM_trans	1.20617	0.27215999	-1.96319	1.20617	0.27215999	-1.96319
+								# static rotation
+								# rotation keyframes
+								ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[13]
+								ANIM_rotate_key	-10	0
+								ANIM_rotate_key	0	0.62509694
+								ANIM_rotate_key	10	1.2501939
+								ANIM_rotate_end
+									# 9 Mesh: 平面.073
+									ANIM_begin
+									# static translation
+									ANIM_trans	0.75862002	0.23929	-1.98419	0.75862002	0.23929	-1.98419
+									# static rotation
+									# rotation keyframes
+									ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[15]
+									ANIM_rotate_key	-10	0
+									ANIM_rotate_key	0	0.62509694
+									ANIM_rotate_key	10	1.2501939
+									ANIM_rotate_end
+										# 10 Mesh: 平面.003
+										ANIM_begin
+										# static translation
+										ANIM_trans	1.30748	0.212	-1.94916	1.30748	0.212	-1.94916
+										# static rotation
+										# rotation keyframes
+										ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[17]
+										ANIM_rotate_key	-10	0
+										ANIM_rotate_key	0	0.62509694
+										ANIM_rotate_key	10	1.2501939
+										ANIM_rotate_end
+											# 11 Mesh: 平面.050
+											ANIM_begin
+											# static translation
+											ANIM_trans	0.97434002	0.20672999	-1.97561	0.97434002	0.20672999	-1.97561
+											# static rotation
+											# rotation keyframes
+											ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[19]
+											ANIM_rotate_key	-10	0
+											ANIM_rotate_key	0	0.62509694
+											ANIM_rotate_key	10	1.2501939
+											ANIM_rotate_end
+												# 12 Mesh: 平面.047
+												ANIM_begin
+												# static translation
+												ANIM_trans	0.90549999	0.21106	-1.94374	0.90549999	0.21106	-1.94374
+												# static rotation
+												# rotation keyframes
+												ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[21]
+												ANIM_rotate_key	-10	0
+												ANIM_rotate_key	0	0.62509694
+												ANIM_rotate_key	10	1.2501939
+												ANIM_rotate_end
+													# 13 Mesh: 平面.041
+													ANIM_begin
+													# static translation
+													ANIM_trans	1.0817	0.22688	-1.96321	1.0817	0.22688	-1.96321
+													# static rotation
+													# rotation keyframes
+													ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[23]
+													ANIM_rotate_key	-10	0
+													ANIM_rotate_key	0	0.62509694
+													ANIM_rotate_key	10	1.2501939
+													ANIM_rotate_end
+														# 14 Mesh: 平面.019
+														ANIM_begin
+														# static translation
+														ANIM_trans	1.158	0.18685	-1.96315	1.158	0.18685	-1.96315
+														# static rotation
+														# rotation keyframes
+														ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[25]
+														ANIM_rotate_key	-10	0
+														ANIM_rotate_key	0	0.62509694
+														ANIM_rotate_key	10	1.2501939
+														ANIM_rotate_end
+															# 15 Mesh: 平面.076
+															ANIM_begin
+															# static translation
+															ANIM_trans	1.23013	0.18504	-1.96319	1.23013	0.18504	-1.96319
+															# static rotation
+															# rotation keyframes
+															ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[27]
+															ANIM_rotate_key	-10	0
+															ANIM_rotate_key	0	0.62509694
+															ANIM_rotate_key	10	1.2501939
+															ANIM_rotate_end
+																# 16 Mesh: 平面.105
+																	# 17 Light: 点光
+																	# LIGHT: 点光	weight: 10000
+																		
+																	ANIM_begin
+																	# static rotation
+																	ANIM_rotate	0	0.99999994	-0.00000022	135	135
+																	LIGHT_PARAM	airplane_nav_right_size 1.3948944 0.24434167 1.3789914 1 1.3491982
+																	ANIM_end
+																# 16 Mesh: Cube.002
+																	# 17 Light: 点光.001
+																	# LIGHT: 点光.001	weight: 10000
+																	LIGHT_NAMED	PLN_airplane_strobe 2.5240364 0.077320129 -1.5137379
+																	# 17 Light: 点光.005
+																	# LIGHT: 点光.005	weight: 10000
+																	ANIM_begin
+																	# static rotation
+																	ANIM_rotate	-0.00000019	1	-0	90	90
+																	LIGHT_PARAM	airplane_nav_tail_size 1.513739 0.0042763231 2.5240364 1 1.9999999
+																	ANIM_end
+															ANIM_end
+														ANIM_end
+													ANIM_end
+												ANIM_end
+											ANIM_end
+										ANIM_end
+									ANIM_end
+								ANIM_end
+							ANIM_end
+						ANIM_end
+					ANIM_end
+				ANIM_end
+			ANIM_end
+		ANIM_end
+	# 1 Mesh: 平面.137
+		# 2 Mesh: 平面.132
+		ANIM_begin
+		# static translation
+		ANIM_trans	7.58495	-0.64700001	5.1795402	7.58495	-0.64700001	5.1795402
+		# static rotation
+		# rotation keyframes
+		ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+		ANIM_rotate_key	-10	-179.99985
+		ANIM_rotate_key	0	-179.99985
+		ANIM_rotate_key	10	-179.99985
+		ANIM_rotate_end
+		ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+		ANIM_rotate_key	-10	0
+		ANIM_rotate_key	0	0.62509694
+		ANIM_rotate_key	10	1.2501939
+		ANIM_rotate_end
+			# 3 Mesh: 平面.131
+			ANIM_begin
+			# static translation
+			ANIM_trans	-1.08485	-0.33199999	1.96917	-1.08485	-0.33199999	1.96917
+			# static rotation
+			ANIM_rotate	0	0	-1	-179.99985	-179.99985
+			# rotation keyframes
+			ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[2]
+			ANIM_rotate_key	-10	-179.99985
+			ANIM_rotate_key	0	-179.99985
+			ANIM_rotate_key	10	-179.99985
+			ANIM_rotate_end
+			ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[2]
+			ANIM_rotate_key	-10	0
+			ANIM_rotate_key	0	0.62509694
+			ANIM_rotate_key	10	1.2501939
+			ANIM_rotate_end
+				# 4 Mesh: 平面.130
+				ANIM_begin
+				# static translation
+				ANIM_trans	-0.89665997	-0.31312999	1.96597	-0.89665997	-0.31312999	1.96597
+				# static rotation
+				ANIM_rotate	0	0	-1	-179.99985	-179.99985
+				# rotation keyframes
+				ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[4]
+				ANIM_rotate_key	-10	-179.99985
+				ANIM_rotate_key	0	-179.99985
+				ANIM_rotate_key	10	-179.99985
+				ANIM_rotate_end
+				ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[4]
+				ANIM_rotate_key	-10	0
+				ANIM_rotate_key	0	0.62509694
+				ANIM_rotate_key	10	1.2501939
+				ANIM_rotate_end
+					# 5 Mesh: 平面.129
+					ANIM_begin
+					# static translation
+					ANIM_trans	0.78079998	-0.43452001	1.95441	0.78079998	-0.43452001	1.95441
+					# static rotation
+					ANIM_rotate	0	0	-1	-179.99985	-179.99985
+					# rotation keyframes
+					ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[6]
+					ANIM_rotate_key	-10	-0
+					ANIM_rotate_key	0	-0.62509694
+					ANIM_rotate_key	10	-1.2501939
+					ANIM_rotate_end
+						# 6 Mesh: 平面.128
+						ANIM_begin
+						# static translation
+						ANIM_trans	1.84294	0.20487	1.9641	1.84294	0.20487	1.9641
+						# static rotation
+						# rotation keyframes
+						ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[8]
+						ANIM_rotate_key	-10	-179.99985
+						ANIM_rotate_key	0	-179.99985
+						ANIM_rotate_key	10	-179.99985
+						ANIM_rotate_end
+						ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[8]
+						ANIM_rotate_key	-10	0
+						ANIM_rotate_key	0	0.62509694
+						ANIM_rotate_key	10	1.2501939
+						ANIM_rotate_end
+							# 7 Mesh: 平面.127
+							ANIM_begin
+							# static translation
+							ANIM_trans	-0.71683002	-0.28253999	1.96225	-0.71683002	-0.28253999	1.96225
+							# static rotation
+							ANIM_rotate	0	0	-1	-179.99985	-179.99985
+							# rotation keyframes
+							ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[10]
+							ANIM_rotate_key	-10	-179.99985
+							ANIM_rotate_key	0	-179.99985
+							ANIM_rotate_key	10	-179.99985
+							ANIM_rotate_end
+							ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[10]
+							ANIM_rotate_key	-10	0
+							ANIM_rotate_key	0	0.62509694
+							ANIM_rotate_key	10	1.2501939
+							ANIM_rotate_end
+								# 8 Mesh: 平面.126
+								ANIM_begin
+								# static translation
+								ANIM_trans	-1.20617	-0.27215999	1.96319	-1.20617	-0.27215999	1.96319
+								# static rotation
+								ANIM_rotate	0	0	-1	-179.99985	-179.99985
+								# rotation keyframes
+								ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[12]
+								ANIM_rotate_key	-10	-179.99985
+								ANIM_rotate_key	0	-179.99985
+								ANIM_rotate_key	10	-179.99985
+								ANIM_rotate_end
+								ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[12]
+								ANIM_rotate_key	-10	0
+								ANIM_rotate_key	0	0.62509694
+								ANIM_rotate_key	10	1.2501939
+								ANIM_rotate_end
+									# 9 Mesh: 平面.125
+									ANIM_begin
+									# static translation
+									ANIM_trans	-0.75862002	-0.23929	1.98418	-0.75862002	-0.23929	1.98418
+									# static rotation
+									ANIM_rotate	0	0	-1	-179.99985	-179.99985
+									# rotation keyframes
+									ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[14]
+									ANIM_rotate_key	-10	-179.99985
+									ANIM_rotate_key	0	-179.99985
+									ANIM_rotate_key	10	-179.99985
+									ANIM_rotate_end
+									ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[14]
+									ANIM_rotate_key	-10	0
+									ANIM_rotate_key	0	0.62509694
+									ANIM_rotate_key	10	1.2501939
+									ANIM_rotate_end
+										# 10 Mesh: 平面.005
+										ANIM_begin
+										# static translation
+										ANIM_trans	-1.30748	-0.212	1.94916	-1.30748	-0.212	1.94916
+										# static rotation
+										ANIM_rotate	0	0	-1	-179.99985	-179.99985
+										# rotation keyframes
+										ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[16]
+										ANIM_rotate_key	-10	-179.99985
+										ANIM_rotate_key	0	-179.99985
+										ANIM_rotate_key	10	-179.99985
+										ANIM_rotate_end
+										ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[16]
+										ANIM_rotate_key	-10	0
+										ANIM_rotate_key	0	0.62509694
+										ANIM_rotate_key	10	1.2501939
+										ANIM_rotate_end
+											# 11 Mesh: 平面.124
+											ANIM_begin
+											# static translation
+											ANIM_trans	-0.97434002	-0.20672999	1.97561	-0.97434002	-0.20672999	1.97561
+											# static rotation
+											ANIM_rotate	0	0	-1	-179.99985	-179.99985
+											# rotation keyframes
+											ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[18]
+											ANIM_rotate_key	-10	-179.99985
+											ANIM_rotate_key	0	-179.99985
+											ANIM_rotate_key	10	-179.99985
+											ANIM_rotate_end
+											ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[18]
+											ANIM_rotate_key	-10	0
+											ANIM_rotate_key	0	0.62509694
+											ANIM_rotate_key	10	1.2501939
+											ANIM_rotate_end
+												# 12 Mesh: 平面.123
+												ANIM_begin
+												# static translation
+												ANIM_trans	-0.90549999	-0.21106	1.94374	-0.90549999	-0.21106	1.94374
+												# static rotation
+												ANIM_rotate	0	0	-1	-179.99985	-179.99985
+												# rotation keyframes
+												ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[20]
+												ANIM_rotate_key	-10	-179.99985
+												ANIM_rotate_key	0	-179.99985
+												ANIM_rotate_key	10	-179.99985
+												ANIM_rotate_end
+												ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[20]
+												ANIM_rotate_key	-10	0
+												ANIM_rotate_key	0	0.62509694
+												ANIM_rotate_key	10	1.2501939
+												ANIM_rotate_end
+													# 13 Mesh: 平面.122
+													ANIM_begin
+													# static translation
+													ANIM_trans	-1.0817	-0.22688	1.96321	-1.0817	-0.22688	1.96321
+													# static rotation
+													ANIM_rotate	0	0	-1	-179.99985	-179.99985
+													# rotation keyframes
+													ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[22]
+													ANIM_rotate_key	-10	-179.99985
+													ANIM_rotate_key	0	-179.99985
+													ANIM_rotate_key	10	-179.99985
+													ANIM_rotate_end
+													ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[22]
+													ANIM_rotate_key	-10	0
+													ANIM_rotate_key	0	0.62509694
+													ANIM_rotate_key	10	1.2501939
+													ANIM_rotate_end
+														# 14 Mesh: 平面.109
+														ANIM_begin
+														# static translation
+														ANIM_trans	-1.158	-0.18684	1.96315	-1.158	-0.18684	1.96315
+														# static rotation
+														ANIM_rotate	0	0	-1	-179.99985	-179.99985
+														# rotation keyframes
+														ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[24]
+														ANIM_rotate_key	-10	-179.99985
+														ANIM_rotate_key	0	-179.99985
+														ANIM_rotate_key	10	-179.99985
+														ANIM_rotate_end
+														ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[24]
+														ANIM_rotate_key	-10	0
+														ANIM_rotate_key	0	0.62509694
+														ANIM_rotate_key	10	1.2501939
+														ANIM_rotate_end
+															# 15 Mesh: 平面.054
+															ANIM_begin
+															# static translation
+															ANIM_trans	-1.23013	-0.18504	1.96319	-1.23013	-0.18504	1.96319
+															# static rotation
+															ANIM_rotate	0	0	-1	-179.99985	-179.99985
+															# rotation keyframes
+															ANIM_rotate_begin	0	0	-1	sim/flightmodel2/wing/wing_tip_deflection_deg[26]
+															ANIM_rotate_key	-10	-179.99985
+															ANIM_rotate_key	0	-179.99985
+															ANIM_rotate_key	10	-179.99985
+															ANIM_rotate_end
+															ANIM_rotate_begin	1	0	-0	sim/flightmodel2/wing/wing_tip_deflection_deg[26]
+															ANIM_rotate_key	-10	0
+															ANIM_rotate_key	0	0.62509694
+															ANIM_rotate_key	10	1.2501939
+															ANIM_rotate_end
+																# 16 Mesh: Cube.003
+																	# 17 Light: 点光.002
+																	# LIGHT: 点光.002	weight: 10000
+																	LIGHT_NAMED	PLN_airplane_strobe -2.5240374 -0.077291511 1.5136919
+																	# 17 Light: 点光.004
+																	# LIGHT: 点光.004	weight: 10000
+																	ANIM_begin
+																	# static rotation
+																	ANIM_rotate	-0.00000323	-1	0	90	90
+																	LIGHT_PARAM	airplane_nav_tail_size 1.5136925 -0.0042609479 2.5240371 1 1.9999999
+																	ANIM_end
+																# 16 Mesh: 平面.133
+																	# 17 Light: 点光.003
+																	# LIGHT: 点光.003	weight: 10000
+																	ANIM_begin
+																	# static rotation
+																	ANIM_rotate	0	-0.99999994	-0.0000032	45.000003	45.000003
+																	LIGHT_PARAM	airplane_nav_left_size 1.3949078 -0.24431928 1.3790052 1 1.3491982
+																	ANIM_end
+															ANIM_end
+														ANIM_end
+													ANIM_end
+												ANIM_end
+											ANIM_end
+										ANIM_end
+									ANIM_end
+								ANIM_end
+							ANIM_end
+						ANIM_end
+					ANIM_end
+				ANIM_end
+			ANIM_end
+		ANIM_end
+
+# Build with Blender 4.4.3 (build b'802179c51ccc'). Exported with XPlane2Blender 4.3.3-rc.1+120.20240721221521
