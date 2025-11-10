@@ -37943,11 +37943,11 @@ IDX	28547
 																# static rotation
 																ANIM_rotate	0	0	-1	-179.99985	-179.99985
 																# rotation keyframes
-																ANIM_rotate_begin	0	0	-1	sim/flightmodel/controls/dihed_rat
+																ANIM_rotate_begin	0	0	-1	elzat/wing/fold_ratio
 																ANIM_rotate_key	0	179.99985
 																ANIM_rotate_key	1	179.99985
 																ANIM_rotate_end
-																ANIM_rotate_begin	1	0	-0	sim/flightmodel/controls/dihed_rat
+																ANIM_rotate_begin	1	0	-0	elzat/wing/fold_ratio
 																ANIM_rotate_key	0	90.000207
 																ANIM_rotate_key	1	175.00022
 																ANIM_rotate_end

@@ -37234,7 +37234,7 @@ IDX	27923
 																ANIM_trans	1.13305	0.21664	-2.07568	1.13305	0.21664	-2.07568
 																# static rotation
 																# rotation keyframes
-																ANIM_rotate_begin	1	0	-0	sim/flightmodel/controls/dihed_rat
+																ANIM_rotate_begin	1	0	-0	elzat/wing/fold_ratio
 																ANIM_rotate_key	0	90.000207
 																ANIM_rotate_key	1	175.00022
 																ANIM_rotate_end
