@@ -43313,10 +43313,10 @@ P acf/_wheel_s2 0.260147959
 P acf/_wheel_t1 0.846609473
 P acf/_wheel_t2 0.945976794
 P acf/_windshield_eff_factor 1.000000000
-P acf/_wing_damp_rat 1.500000000
-P acf/_wing_frac_fuel 0.500000000
-P acf/_wing_frac_mass 0.330000013
-P acf/_wing_mid_dihed_per_g 2.200000048
+P acf/_wing_damp_rat 1.299999952
+P acf/_wing_frac_fuel 0.449999988
+P acf/_wing_frac_mass 0.180000007
+P acf/_wing_mid_dihed_per_g 3.150000095
 P acf/_wing_tilt_ptch 0.000000000
 P acf/_wing_tilt_roll 0.000000000
 P acf/_wiper_ang1/0 -10.000000000
