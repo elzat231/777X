@@ -9537,7 +9537,7 @@ P _engn/count 16
 P _gear/0/_axiE 0.000000000
 P _gear/0/_axiR 0.000000000
 P _gear/0/_cyc_time 20.000000000
-P _gear/0/_damp 4200.000000000
+P _gear/0/_damp 8197.254882812
 P _gear/0/_eagle_claw_deg 0.000000000
 P _gear/0/_gear_brakes 1
 P _gear/0/_gear_can_retract 1
@@ -9569,7 +9569,7 @@ P _gear/0/_tire_swidth 0.600000024
 P _gear/1/_axiE 0.000000000
 P _gear/1/_axiR 0.000000000
 P _gear/1/_cyc_time 20.000000000
-P _gear/1/_damp 6000.000000000
+P _gear/1/_damp 3.1501246E4
 P _gear/1/_eagle_claw_deg 13.000000000
 P _gear/1/_gear_brakes 1
 P _gear/1/_gear_can_retract 1
@@ -9601,7 +9601,7 @@ P _gear/1/_tire_swidth 0.970000029
 P _gear/2/_axiE 0.000000000
 P _gear/2/_axiR 0.000000000
 P _gear/2/_cyc_time 20.000000000
-P _gear/2/_damp 6000.000000000
+P _gear/2/_damp 3.1501246E4
 P _gear/2/_eagle_claw_deg 13.000000000
 P _gear/2/_gear_brakes 1
 P _gear/2/_gear_can_retract 1
@@ -40925,8 +40925,8 @@ P acf/_bouncer_spring_k/9,1 0.000000000
 P acf/_bouncer_spring_k/9,2 0.000000000
 P acf/_bouncer_spring_k/i_count 14
 P acf/_bouncer_spring_k/j_count 3
-P acf/_brake_co 0.649999976
-P acf/_brake_max_stopping_KTGS 260.000000000
+P acf/_brake_co 0.800000012
+P acf/_brake_max_stopping_KTGS 240.000000000
 P acf/_brake_to_steer_power 1.799999952
 P acf/_burner_delay_sec 0.000000000
 P acf/_burner_inc 0.000000000
@@ -42890,7 +42890,7 @@ P acf/_rock_max_vac 0.000000000
 P acf/_roll_acft_lf_trim_rat 0.189999998
 P acf/_roll_acft_rt_trim_rat 0.375000000
 P acf/_roll_acft_trim_mode 0
-P acf/_roll_co 0.022000000
+P acf/_roll_co 0.010000000
 P acf/_roll_max_full_def_KIAS 999.000000000
 P acf/_roll_to_eng_spo1 0.000000000
 P acf/_roll_to_eng_spo2 0.000000000
@@ -43267,7 +43267,7 @@ P acf/_tvec_hdng 0.000000000
 P acf/_tvec_ptch 0.000000000
 P acf/_tvec_roll 0.000000000
 P acf/_unfeather_accum_EQ 0
-P acf/_use_cus_gear_damping 1
+P acf/_use_cus_gear_damping 0
 P acf/_use_cus_gear_defs 1
 P acf/_use_manual_prop_inc 0
 P acf/_user_can_fly 1
@@ -43319,10 +43319,10 @@ P acf/_wheel_s2 0.260147959
 P acf/_wheel_t1 0.846609473
 P acf/_wheel_t2 0.945976794
 P acf/_windshield_eff_factor 1.000000000
-P acf/_wing_damp_rat 1.299999952
-P acf/_wing_frac_fuel 0.469999999
-P acf/_wing_frac_mass 0.170000002
-P acf/_wing_mid_dihed_per_g 2.750000000
+P acf/_wing_damp_rat 1.200000048
+P acf/_wing_frac_fuel 0.490000010
+P acf/_wing_frac_mass 0.200000003
+P acf/_wing_mid_dihed_per_g 2.950000048
 P acf/_wing_tilt_ptch 0.000000000
 P acf/_wing_tilt_roll 0.000000000
 P acf/_wiper_ang1/0 -10.000000000
